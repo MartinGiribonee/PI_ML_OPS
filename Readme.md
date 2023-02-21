@@ -99,7 +99,11 @@ Este modelo de recomendación es para Usted!!!
 :warning: **el numero de pelicula tiene que ser la letra 'n', 'a', 'd' , 'h' + 's' + un numero** :warning:
 
 
-**[Video](https://youtu.be/6z1hTmLK1cg)** : Realice un video mostrando la API, sus consultas, como funciona el sistema de recomedación y mostrando el repositorio. 
+
+
+**[Video](https://youtu.be/6z1hTmLK1cg)** : Realice un video mostrando la API, sus consultas, como funciona el sistema de recomedación y mostrando el repositorio.
+
+
 
 :red_circle: **AGRADECIMIENTOS** :red_circle:
 

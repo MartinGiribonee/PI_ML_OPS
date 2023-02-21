@@ -40,7 +40,6 @@ Debes empezar desde 0, haciendo un trabajo rápido de Data Engineer y tener un M
 
 
 Te espero ahí :D
-
 https://deta.space/discovery/r/thewhxdah4gvgru1
 
 

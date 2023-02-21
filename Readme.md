@@ -28,7 +28,7 @@ Debes empezar desde 0, haciendo un trabajo rápido de Data Engineer y tener un M
 * **Analisis_exploratorio_de_datos**: _Paso a paso del proceso de EDA y el modelo de recomendación_
 * **Modelo_de_recomendación**: _Paso a paso del deserrollo del modelo de recomendación
 
-:blue_circle: **Funciones de la API:** :blue_circle:
+:red_circle: **Funciones de la API:** :red_circle::
 
 * Película con mayor duración con filtros opcionales de AÑO, PLATAFORMA Y TIPO DE DURACIÓN.
 * Cantidad de películas por plataforma con un puntaje mayor a XX en determinado año

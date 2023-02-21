@@ -35,9 +35,15 @@ Debes empezar desde 0, haciendo un trabajo rápido de Data Engineer y tener un M
 * Cantidad de películas por plataforma con filtro de PLATAFORMA
 * Actor que más se repite según plataforma y año.
 
+
+**Para el deployment de la API, utilice Deta Space, me podran encontrar como: 'martingiribone' y el nombre de la aplicación: 'detaAPI'**
+
+
 Te espero ahí :D
 
 https://deta.space/discovery/r/thewhxdah4gvgru1
+
+
 
 :warning: **Algunas aclaraciones sobre las consultas** :warning:
 

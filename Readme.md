@@ -21,12 +21,12 @@ Debes empezar desde 0, haciendo un trabajo rápido de Data Engineer y tener un M
 
 :red_circle: **INICIO** :red_circle:
 
-* **MLOpsReviews**: _Bases de datos recibidas_
+* **Datasets**: _Bases de datos recibidas_
 * **detaAPI**: _Dentro encontraran un archivo main.py que contiene todo el codigo de la API. Requierements.txt que contiene las dependencias necesarias para que funcione y el csv utilizado para realizar todas las consultas_
-* **Consignas.md**: _Repositorio recibido con todo el contenido y tareas ha realizar_
 * **Trasformacion de datos**:  _Paso a paso detallado del proceso de ETL_
 * **Purebas_1**: _Cuaderno con las pruebas para las consultas pedidas_
 * **Analisis_exploratorio_de_datos**: _Paso a paso del proceso de EDA y el modelo de recomendación_
+* **Modelo_de_recomendación**: _Paso a paso del deserrollo del modelo de recomendación
 
 :blue_circle: **Funciones de la API:** :blue_circle:
 

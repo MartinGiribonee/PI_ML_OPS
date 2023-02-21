@@ -90,6 +90,8 @@ Este modelo de recomendación es para Usted!!!
 
 :link: https://huggingface.co/spaces/TheMith/MachineLearning_recomendacion 
 
+:warning: **el numero de pelicula tiene que ser la letra 'n', 'a', 'd' , 'h' + 's' + un numero** :warning:
+
 
 Link al video: 
 

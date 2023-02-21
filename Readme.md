@@ -1,4 +1,4 @@
-![ML_OPS](src/mlops-versionado-de-modelos_0.png)
+![ML_OPS align=center](src/mlops-versionado-de-modelos_0.png)
 
 <h1 align=center> HENRY’S LABS </h1>
 

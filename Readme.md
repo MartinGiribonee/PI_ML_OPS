@@ -11,6 +11,13 @@
 ![Arquitectura](src/Diapositiva1.JPG)
 
 
+**Rol a desarrollar**
+
+Empezaste a trabajar como Data Scientist en una start-up que provee servicios de agregación de plataformas de streaming. El mundo es bello y vas a crear tu primer modelo de ML que soluciona un problema de negocio: un sistema de recomendación que aún no ha sido puesto en marcha!
+
+Vas a sus datos y te das cuenta que la madurez de los mismos es poca (ok, es nula 😭): Datos sin transformar, no hay procesos automatizados para la actualización de nuevas películas o series, entre otras cosas…. haciendo tu trabajo imposible 😩.
+
+Debes empezar desde 0, haciendo un trabajo rápido de Data Engineer y tener un MVP (Minimum Viable Product) para la próxima semana! Tu cabeza va a explotar 🤯, pero al menos sabes cual es, conceptualmente, el camino que debes de seguir ❗. Así que te espantas los miedos y te pones manos a la obra 💪
 :red_circle: **INICIO** :red_circle:
 
 * **MLOpsReviews**: _Bases de datos recibidas_

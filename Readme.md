@@ -88,7 +88,7 @@ https://deta.space/discovery/r/thewhxdah4gvgru1
 
 :small_orange_diamond: **[Hagginface](https://huggingface.co/)**: Hagginface desarrolla herramientas para crear aplicaciones utilizando el aprendizaje automático.
 
-**Modelo de recomendacion**
+## Modelo de recomendacion
 
 ¿Es sabado a la noche, sus amigos salieron pero usted prefiere quedarse en casa viendo una pelicula o serie?
 

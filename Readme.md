@@ -96,6 +96,7 @@ Este modelo de recomendación es para Usted!!!
 **[Video](https://youtu.be/6z1hTmLK1cg)** : Realice un video mostrando la API, sus consultas, como funciona el sistema de recomedación y mostrando el repositorio. 
 
 :red_circle: **AGRADECIMIENTOS** :red_circle:
+
 Me gustaría agradecer a los menteros y la gente detras de toda la parte de HenryLabs, también a mis compañeros de cohorte que me han acompañado en todo este camino y estamos muy cerca de poder finalizarlo.
 
 ### Contacto
